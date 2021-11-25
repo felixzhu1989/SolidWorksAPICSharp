@@ -1,0 +1,6 @@
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\bin\Debug\Utility.dll
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\bin\Debug\Utility.pdb
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\obj\Debug\Utility.dll
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\obj\Debug\Utility.pdb
+E:\CSharp\repos\SolidWorksAPICSharp\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache

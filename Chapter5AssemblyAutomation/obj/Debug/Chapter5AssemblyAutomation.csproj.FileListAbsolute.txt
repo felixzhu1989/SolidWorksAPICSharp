@@ -1,0 +1,22 @@
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Chapter5AssemblyAutomation.exe.config
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Chapter5AssemblyAutomation.exe
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Chapter5AssemblyAutomation.pdb
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Utility.dll
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Utility.pdb
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.csproj.AssemblyReference.cache
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.FrmAssemblyAutomation.resources
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.Properties.Resources.resources
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.csproj.GenerateResource.cache
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.exe
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\obj\Debug\Chapter5AssemblyAutomation.pdb
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\bottom plate.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\chassis.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\control knob.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\Fillister Head Screw_AI.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\foot plate.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\Guitar Effect Pedal.SLDASM
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\hex nut.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\input.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\pcb.SLDPRT
+E:\CSharp\repos\SolidWorksAPICSharp\Chapter5AssemblyAutomation\bin\Debug\Guitar Effect Pedal\spring.SLDPRT

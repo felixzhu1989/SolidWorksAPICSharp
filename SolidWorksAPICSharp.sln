@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5AssemblyAutomation", "Chapter5AssemblyAutomation\Chapter5AssemblyAutomation.csproj", "{B8FEDA27-C16A-4C5B-941B-AE95F2D5370D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{F3E8949D-4EAD-482F-8C79-2F69017CF27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FEDA27-C16A-4C5B-941B-AE95F2D5370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FEDA27-C16A-4C5B-941B-AE95F2D5370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FEDA27-C16A-4C5B-941B-AE95F2D5370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FEDA27-C16A-4C5B-941B-AE95F2D5370D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E8949D-4EAD-482F-8C79-2F69017CF27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E8949D-4EAD-482F-8C79-2F69017CF27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E8949D-4EAD-482F-8C79-2F69017CF27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E8949D-4EAD-482F-8C79-2F69017CF27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03688E18-7B7B-4E62-AD32-D22975882418}
+	EndGlobalSection
+EndGlobal
